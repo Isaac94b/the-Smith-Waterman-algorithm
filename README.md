@@ -1,8 +1,8 @@
-# DynamicProgramming
+#  the Smith-Waterman algorithm
 
 ## Overview
 
-This program performs sequence alignment using dynamic programming. It uses a scoring matrix to align two input sequences based on match, mismatch, and gap values.
+The program demonstrates a local sequence alignment using the Smith-Waterman algorithm, allowing for the identification of similar regions within two sequences. The use of the termcolor library provides visual cues for better understanding the output.
 
 ## Features
 
